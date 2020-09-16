@@ -1,29 +1,38 @@
-Contacts:
-Evgeny Kornev
+# Evgeny Kornev
+
+## Contacts:
 eugene_jj@mail.ru
 
-About:
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении и способности быстро учиться и узнавать новое)
+## About:
+I'm trying to become a front-end developer in order to get both popular skills and broaden my horizons.
+I have experience in back-end development, but modern life requires more.
 
-I'm trying to became front-end developer, to improve my skills.
+I have no ability to learn quickly, but I go step by step. And what I have learned remains in my memory and it is systematized.
 
-I also have a small expirience in C#/.NET Framework.
+## Expirience:
 
-Expirience:
-Опыт работы. Junior Dev может указать пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных навыков и ссылками на исходный код.*
+I worked for several companies, but mostly this work was remote and as I said earlier, at back end part.
+I have a little experience in managing the development team, as well as experience in communicating with the customer and delivering releases.
 
-Education:
-Образование (включая курсы, семинары, лекции, онлайн-обучение)
+## Education:
+Volga Region State University of Service, 2005
 
-Skills:
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
-C#/.NET
-Visual Studio 2019 and older
-SQL (MSSQL, T-SQL)
+## Skills:
+* ### Tech skills:
+	* C#/.NET
+	* SQL (MSSQL, T-SQL)
+	* Visual Studio 2019 and older
 
-Git, Mercurial, SVN
+	* _Verison control systems:_
+		* Git, Mercurial, SVN
 
-SCRUM/Kanban
+* ### Soft skills:
+	* SCRUM/Kanban
+	* Business correspondence
+	* Independly work
 
-English:
+## English:
 I hope, my english level is about A2...A2+.
+
+_## Remarks_
+**The information may not be quite real and provided only as part of a training task.**
