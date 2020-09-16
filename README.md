@@ -1,2 +1,2 @@
 # rsschool-cv
-https://eugene52.github.io/rsschool-cv/CV.md
+https://eugene52.github.io/rsschool-cv/cv
