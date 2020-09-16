@@ -1,0 +1,55 @@
+body {
+	font-family: "Trebuchet MS", "Lucida Grande", Tahoma, sans-serif;
+	color: rgb(17, 17, 17);
+}
+
+h1 {
+	font-size: 40px;
+	font-weight: 700;
+	line-height: 40px;
+	margin: 10px;
+}
+
+h2 {
+	font-size: 32px;
+	font-weight: 400;
+	line-height: 32px;
+	margin: 30px 10px 10px 10px;
+}
+
+h3 {
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 24px;
+}
+
+p {
+	color: rgb(33, 33, 33);
+	line-height: 24px;
+}
+
+ul {
+	color: rgb(33, 33, 33);
+	line-height: 24px;
+}
+
+li {
+	color: rgb(33, 33, 33);
+}
+
+.head {
+	margin: 0px 0px 0px 50px;
+}
+
+.cv_photo {
+	border: solid 3px;
+	border-radius: 30px;
+}
+
+.content p {
+	margin: 0 0 0 40px;
+}
+
+.remarks {
+	color: gray;
+}
